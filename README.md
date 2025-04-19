@@ -140,7 +140,7 @@ Linux 依赖问题的具体解释请参考 [#840](https://github.com/iDvel/rime-
 您如果熟悉 git 常用操作，可以使用 git clone 命令将本仓库克隆到对应前端的用户目录。由于本库提交历史较多且更改频繁，添加 `--depth` 参数可以显著减少传输体积。
 
 ```bash
-git clone https://github.com/iDvel/rime-ice.git Rime --depth 1
+git clone https://github.com/Linguage/rime-ice-henri.git Rime --depth 1
 
 # 更新
 cd Rime
